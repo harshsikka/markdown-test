@@ -2,7 +2,7 @@
 Just a test of github flavored markdown
 
 
-Markdown | Less | Pretty
+VC | Individual | Email
 --- | --- | ---
-*Still* | `renders` | **nicely**
+**A16Z** |  | `info@a16z.com`
 1 | 2 | 3
